@@ -10,7 +10,7 @@ Telegram и [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](): @
 ## EN
 Cat-programmer, which is mainly known by the name HPASUS8, mrmaximumhell, [mx], максимум
 
-Telegram and [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](): @mrmaximumhell **(don't forget to write that you aren't know russian language!)**
+Telegram and [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](): @hpasus8 **(don't forget to write that you aren't know russian language!)**
 
 I work in [![Windows](https://skillicons.dev/icons?i=windows&theme=dark)]()
 
